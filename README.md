@@ -20,5 +20,10 @@ The beginning of each cell explains the broad purpose of the code and there are 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+
+## Credits
+This code is only made possible by PHE Fingertips and their fingertips_py package (the documentation for which can be found here: https://fingertips-py.readthedocs.io/en/latest/#indices-and-tables).
+
+
 ## Questions
 If you have any questions, please contact kieren.gera@nhs.net
