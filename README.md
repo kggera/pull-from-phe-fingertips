@@ -26,4 +26,4 @@ This code is only made possible by PHE Fingertips and their fingertips_py packag
 
 
 ## Questions
-If you have any questions, please contact kieren.gera@nhs.net
+If you have any questions, please contact kieren.gera@gmail.com
